@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato&family=Libre+Baskerville:ital@1&family=Oswald&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Baskervville', serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1,h2,h3{
+	font-family: 'Oswald', sans-serif;
+	font-weight:bold;
+}
+
+h4{
+	font-family: 'Baskervville', serif;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+
+}
